@@ -1,0 +1,303 @@
+[
+    {
+      "Posición": 1,
+      "Minuto de Salida": 360,
+      "Cantidad": 10784,
+      "Porcentaje": 2
+    },
+    {
+      "Posición": 2,
+      "Minuto de Salida": 420,
+      "Cantidad": 6644,
+      "Porcentaje": 1.2
+    },
+    {
+      "Posición": 3,
+      "Minuto de Salida": 390,
+      "Cantidad": 4279,
+      "Porcentaje": 0.8
+    },
+    {
+      "Posición": 4,
+      "Minuto de Salida": 480,
+      "Cantidad": 4058,
+      "Porcentaje": 0.8
+    },
+    {
+      "Posición": 5,
+      "Minuto de Salida": 450,
+      "Cantidad": 3804,
+      "Porcentaje": 0.7
+    },
+    {
+      "Posición": 6,
+      "Minuto de Salida": 540,
+      "Cantidad": 3723,
+      "Porcentaje": 0.7
+    },
+    {
+      "Posición": 7,
+      "Minuto de Salida": 510,
+      "Cantidad": 3700,
+      "Porcentaje": 0.7
+    },
+    {
+      "Posición": 8,
+      "Minuto de Salida": 1020,
+      "Cantidad": 3459,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 9,
+      "Minuto de Salida": 660,
+      "Cantidad": 3319,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 10,
+      "Minuto de Salida": 990,
+      "Cantidad": 3158,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 11,
+      "Minuto de Salida": 1140,
+      "Cantidad": 3150,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 12,
+      "Minuto de Salida": 525,
+      "Cantidad": 3131,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 13,
+      "Minuto de Salida": 960,
+      "Cantidad": 3111,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 14,
+      "Minuto de Salida": 720,
+      "Cantidad": 3051,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 15,
+      "Minuto de Salida": 600,
+      "Cantidad": 3041,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 16,
+      "Minuto de Salida": 1050,
+      "Cantidad": 3039,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 17,
+      "Minuto de Salida": 840,
+      "Cantidad": 2981,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 18,
+      "Minuto de Salida": 810,
+      "Cantidad": 2973,
+      "Porcentaje": 0.6
+    },
+    {
+      "Posición": 19,
+      "Minuto de Salida": 900,
+      "Cantidad": 2924,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 20,
+      "Minuto de Salida": 690,
+      "Cantidad": 2890,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 21,
+      "Minuto de Salida": 1080,
+      "Cantidad": 2825,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 22,
+      "Minuto de Salida": 1170,
+      "Cantidad": 2807,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 23,
+      "Minuto de Salida": 705,
+      "Cantidad": 2703,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 24,
+      "Minuto de Salida": 630,
+      "Cantidad": 2686,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 25,
+      "Minuto de Salida": 780,
+      "Cantidad": 2670,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 26,
+      "Minuto de Salida": 570,
+      "Cantidad": 2669,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 27,
+      "Minuto de Salida": 520,
+      "Cantidad": 2656,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 28,
+      "Minuto de Salida": 515,
+      "Cantidad": 2650,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 29,
+      "Minuto de Salida": 870,
+      "Cantidad": 2601,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 30,
+      "Minuto de Salida": 465,
+      "Cantidad": 2596,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 31,
+      "Minuto de Salida": 885,
+      "Cantidad": 2585,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 32,
+      "Minuto de Salida": 375,
+      "Cantidad": 2574,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 33,
+      "Minuto de Salida": 405,
+      "Cantidad": 2537,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 34,
+      "Minuto de Salida": 1150,
+      "Cantidad": 2523,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 35,
+      "Minuto de Salida": 1040,
+      "Cantidad": 2508,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 36,
+      "Minuto de Salida": 1055,
+      "Cantidad": 2505,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 37,
+      "Minuto de Salida": 435,
+      "Cantidad": 2484,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 38,
+      "Minuto de Salida": 930,
+      "Cantidad": 2484,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 39,
+      "Minuto de Salida": 615,
+      "Cantidad": 2471,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 40,
+      "Minuto de Salida": 1135,
+      "Cantidad": 2458,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 41,
+      "Minuto de Salida": 585,
+      "Cantidad": 2457,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 42,
+      "Minuto de Salida": 1200,
+      "Cantidad": 2448,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 43,
+      "Minuto de Salida": 725,
+      "Cantidad": 2439,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 44,
+      "Minuto de Salida": 370,
+      "Cantidad": 2428,
+      "Porcentaje": 0.5
+    },
+    {
+      "Posición": 45,
+      "Minuto de Salida": 500,
+      "Cantidad": 2424,
+      "Porcentaje": 0.4
+    },
+    {
+      "Posición": 46,
+      "Minuto de Salida": 675,
+      "Cantidad": 2421,
+      "Porcentaje": 0.4
+    },
+    {
+      "Posición": 47,
+      "Minuto de Salida": 530,
+      "Cantidad": 2409,
+      "Porcentaje": 0.4
+    },
+    {
+      "Posición": 48,
+      "Minuto de Salida": 1110,
+      "Cantidad": 2406,
+      "Porcentaje": 0.4
+    },
+    {
+      "Posición": 49,
+      "Minuto de Salida": 1185,
+      "Cantidad": 2403,
+      "Porcentaje": 0.4
+    },
+    {
+      "Posición": 50,
+      "Minuto de Salida": 695,
+      "Cantidad": 2402,
+      "Porcentaje": 0.4
+    }
+  ]
+  
