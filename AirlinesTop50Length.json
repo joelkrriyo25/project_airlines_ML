@@ -1,0 +1,302 @@
+[
+    {
+       "Posición":1,
+       "Length ":80,
+       "Cantidad":13339,
+       "Porcentaje":2.5
+    },
+    {
+       "Posición":2,
+       "Length ":70,
+       "Cantidad":13086,
+       "Porcentaje":2.4
+    },
+    {
+       "Posición":3,
+       "Length ":65,
+       "Cantidad":11894,
+       "Porcentaje":2.2
+    },
+    {
+       "Posición":4,
+       "Length ":85,
+       "Cantidad":11840,
+       "Porcentaje":2.2
+    },
+    {
+       "Posición":5,
+       "Length ":75,
+       "Cantidad":11813,
+       "Porcentaje":2.2
+    },
+    {
+       "Posición":6,
+       "Length ":90,
+       "Cantidad":9807,
+       "Porcentaje":1.8
+    },
+    {
+       "Posición":7,
+       "Length ":60,
+       "Cantidad":9440,
+       "Porcentaje":1.8
+    },
+    {
+       "Posición":8,
+       "Length ":95,
+       "Cantidad":9233,
+       "Porcentaje":1.7
+    },
+    {
+       "Posición":9,
+       "Length ":125,
+       "Cantidad":8873,
+       "Porcentaje":1.6
+    },
+    {
+       "Posición":10,
+       "Length ":110,
+       "Cantidad":8755,
+       "Porcentaje":1.6
+    },
+    {
+       "Posición":11,
+       "Length ":105,
+       "Cantidad":8609,
+       "Porcentaje":1.6
+    },
+    {
+       "Posición":12,
+       "Length ":120,
+       "Cantidad":8375,
+       "Porcentaje":1.6
+    },
+    {
+       "Posición":13,
+       "Length ":115,
+       "Cantidad":7907,
+       "Porcentaje":1.5
+    },
+    {
+       "Posición":14,
+       "Length ":100,
+       "Cantidad":7645,
+       "Porcentaje":1.4
+    },
+    {
+       "Posición":15,
+       "Length ":130,
+       "Cantidad":7130,
+       "Porcentaje":1.3
+    },
+    {
+       "Posición":16,
+       "Length ":135,
+       "Cantidad":7039,
+       "Porcentaje":1.3
+    },
+    {
+       "Posición":17,
+       "Length ":155,
+       "Cantidad":6636,
+       "Porcentaje":1.2
+    },
+    {
+       "Posición":18,
+       "Length ":160,
+       "Cantidad":6534,
+       "Porcentaje":1.2
+    },
+    {
+       "Posición":19,
+       "Length ":165,
+       "Cantidad":6421,
+       "Porcentaje":1.2
+    },
+    {
+       "Posición":20,
+       "Length ":145,
+       "Cantidad":6247,
+       "Porcentaje":1.2
+    },
+    {
+       "Posición":21,
+       "Length ":140,
+       "Cantidad":5985,
+       "Porcentaje":1.1
+    },
+    {
+       "Posición":22,
+       "Length ":170,
+       "Cantidad":5872,
+       "Porcentaje":1.1
+    },
+    {
+       "Posición":23,
+       "Length ":55,
+       "Cantidad":5699,
+       "Porcentaje":1.1
+    },
+    {
+       "Posición":24,
+       "Length ":150,
+       "Cantidad":5514,
+       "Porcentaje":1
+    },
+    {
+       "Posición":25,
+       "Length ":175,
+       "Cantidad":4361,
+       "Porcentaje":0.8
+    },
+    {
+       "Posición":26,
+       "Length ":50,
+       "Cantidad":4130,
+       "Porcentaje":0.8
+    },
+    {
+       "Posición":27,
+       "Length ":180,
+       "Cantidad":3853,
+       "Porcentaje":0.7
+    },
+    {
+       "Posición":28,
+       "Length ":185,
+       "Cantidad":3634,
+       "Porcentaje":0.7
+    },
+    {
+       "Posición":29,
+       "Length ":195,
+       "Cantidad":3406,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":30,
+       "Length ":190,
+       "Cantidad":3306,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":31,
+       "Length ":83,
+       "Cantidad":3182,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":32,
+       "Length ":82,
+       "Cantidad":3168,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":33,
+       "Length ":74,
+       "Cantidad":3144,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":34,
+       "Length ":84,
+       "Cantidad":3109,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":35,
+       "Length ":92,
+       "Cantidad":3099,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":36,
+       "Length ":89,
+       "Cantidad":3064,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":37,
+       "Length ":93,
+       "Cantidad":3060,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":38,
+       "Length ":76,
+       "Cantidad":3048,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":39,
+       "Length ":88,
+       "Cantidad":3034,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":40,
+       "Length ":102,
+       "Cantidad":2997,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":41,
+       "Length ":81,
+       "Cantidad":2975,
+       "Porcentaje":0.6
+    },
+    {
+       "Posición":42,
+       "Length ":79,
+       "Cantidad":2900,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":43,
+       "Length ":72,
+       "Cantidad":2885,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":44,
+       "Length ":99,
+       "Cantidad":2867,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":45,
+       "Length ":205,
+       "Cantidad":2808,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":46,
+       "Length ":118,
+       "Cantidad":2806,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":47,
+       "Length ":112,
+       "Cantidad":2799,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":48,
+       "Length ":87,
+       "Cantidad":2777,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":49,
+       "Length ":96,
+       "Cantidad":2768,
+       "Porcentaje":0.5
+    },
+    {
+       "Posición":50,
+       "Length ":122,
+       "Cantidad":2763,
+       "Porcentaje":0.5
+    }
+ ]
